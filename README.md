@@ -163,6 +163,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=banikriki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
+[![An image of @banikriki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banikriki)](https://holopin.io/@banikriki)
 
 
 <h3 align="center">Statistics</h3>
