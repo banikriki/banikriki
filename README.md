@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...    
 -->
-![image](https://media.licdn.com/dms/image/v2/D5616AQHkAkOzf0fiAg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724145227390?e=1732752000&v=beta&t=Eu8s6puD-AFuoSANLtKBtawdv_WWjazTn69YMogq6Ec)
+![image](/BANNER.png)
 
 
 <p align="center">
